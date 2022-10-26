@@ -21,7 +21,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/doctorCare?style=flat-square">
 </p>
 
- ![TheBestSoftware](https://user-images.githubusercontent.com/45535344/174165483-fd31de2e-7ac5-431f-842a-b1b73f715fcc.gif)
+ ![TheBestSoftware](https://github.com/issufibadji/thebest/blob/master/assets/images/thebest.png)
  
 ## :book: Sobre
 A **TheBestSoftware**
