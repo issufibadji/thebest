@@ -379,6 +379,7 @@ section {
 
 .portfolio-information-img {
     width: 100%;
+    display: flex;
     height: max-content;
     border-radius: 20px 20px 0 0;
     margin-bottom: 5px;
@@ -389,23 +390,6 @@ section {
 
 
 /*team */
-
-.childern {
-    text-align: justify;
-}
-
-#team .gallery img {
-    width: 50%;
-    height: 50%;
-    border-radius: 50%;
-    justify-items: center;
-    justify-content: center;
-}
-
-#team .desc {
-    padding: 15px;
-    text-align: justify;
-}
 
 #team header h2,
 h5 {
@@ -423,6 +407,12 @@ h5 {
     #team .responsive {
         width: 49.99999%;
         margin: 6px 0;
+    }
+    #team {
+        margin-bottom: 100px;
+    }
+    #contact {
+        margin-top: 100px;
     }
 }
 
@@ -462,9 +452,8 @@ h5 {
 
 .our_team .team_member .member_img {
     background: #e9e5fa;
-    max-width: 190px;
+    max-width: 150px;
     margin: 0 auto;
-    /*border-radius: 50%;*/
     padding: 5px;
     position: relative;
     cursor: pointer;
