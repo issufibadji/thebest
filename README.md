@@ -30,7 +30,7 @@ O projeto foi desenvolvido durante a [Maratona Discover 1](https://maratonadisco
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
-> https://issufibadji.github.io/thebest/
+> https://issufibadji.github.io/thebestsoftware/
 
 ## :rocket: Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
