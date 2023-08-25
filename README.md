@@ -1,5 +1,5 @@
-<h1 align="center" color="blue">
-   TheBestSoftware
+<h1 align="center" >
+  <font color ="green"> TheBestSoftware</font>
 </h1>
 
 <p align="center">
