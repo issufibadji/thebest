@@ -1,4 +1,4 @@
-<h1 align="center" color=" ">
+<h1 align="center" color="blue">
    TheBestSoftware
 </h1>
 
